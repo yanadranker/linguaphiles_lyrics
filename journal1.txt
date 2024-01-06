@@ -1,0 +1,12 @@
+Finally starting a project I thought about for a very long time. 
+The idea is to learn a language through song lyrics and recreational video content (sereis/ movies etc.).
+This idea comes from a personal experience. I was struggling with learning a vocabulary of a new language, but after listening to a song a few times and 
+learning the lyrics I could easily recite the entire song.
+I am developing this for my own use, but making it public in case someone finds this repo beneficial in some way.
+
+So, the beginning should be very simple.
+Given a link for a song with lyrics on youtube, the output is as follows:
+1. A list of all the words. For each word - vocabulry definition and classification, example in several sentences (correct and incorrect usage).
+2. Estimated new vocabulary (rare/new words).
+3. A list of short texts using these words.
+
